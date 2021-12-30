@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Syrym Tleuzhanov</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Syrym.
+        \n\n Now I\'m Studying in Astana IT University at Educational program <b> Computer Science </b>
+        \n\n I love doing a lot things.
+        \n For Example: <b> reading books, watchings TV serials, movies, or </b> <i> playing Mobile Games(Android). </i>
+        \n From books, I prefer to read science fiction or fantasy books rather than literary and other genres.
+        \n And my preferences for TV series are similar to my book preferences.
+        \n\n And if we talk about my preferences when choosing a game, then by and large I choose games that you can play with friends or those games in which you have to think.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
